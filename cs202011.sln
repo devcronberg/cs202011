@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegePlads", "LegePlads\Lege
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler", "Variabler\Variabler.csproj", "{DB0A7C66-4962-4309-9486-6A00587C070C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDemo", "StringDemo\StringDemo.csproj", "{9E31CA0C-BF07-4C10-B43A-B9DFEFC862DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konstanter", "Konstanter\Konstanter.csproj", "{42EC4E24-1F3D-4D39-867B-9C9B321C076E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{DB0A7C66-4962-4309-9486-6A00587C070C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB0A7C66-4962-4309-9486-6A00587C070C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB0A7C66-4962-4309-9486-6A00587C070C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E31CA0C-BF07-4C10-B43A-B9DFEFC862DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E31CA0C-BF07-4C10-B43A-B9DFEFC862DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E31CA0C-BF07-4C10-B43A-B9DFEFC862DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E31CA0C-BF07-4C10-B43A-B9DFEFC862DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EC4E24-1F3D-4D39-867B-9C9B321C076E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EC4E24-1F3D-4D39-867B-9C9B321C076E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EC4E24-1F3D-4D39-867B-9C9B321C076E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EC4E24-1F3D-4D39-867B-9C9B321C076E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

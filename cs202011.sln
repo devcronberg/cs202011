@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start", "Start\Start.csproj", "{3F0ADD53-8130-4872-BE8D-245E915924E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegePlads", "LegePlads\LegePlads.csproj", "{863F8BB6-2010-408E-9851-40FB8E02D97E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler", "Variabler\Variabler.csproj", "{DB0A7C66-4962-4309-9486-6A00587C070C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3F0ADD53-8130-4872-BE8D-245E915924E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F0ADD53-8130-4872-BE8D-245E915924E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F0ADD53-8130-4872-BE8D-245E915924E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863F8BB6-2010-408E-9851-40FB8E02D97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863F8BB6-2010-408E-9851-40FB8E02D97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863F8BB6-2010-408E-9851-40FB8E02D97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863F8BB6-2010-408E-9851-40FB8E02D97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0A7C66-4962-4309-9486-6A00587C070C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0A7C66-4962-4309-9486-6A00587C070C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0A7C66-4962-4309-9486-6A00587C070C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0A7C66-4962-4309-9486-6A00587C070C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

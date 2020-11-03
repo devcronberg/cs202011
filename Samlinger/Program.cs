@@ -40,6 +40,11 @@ namespace Samlinger
             string navn = lst[0];
             Console.WriteLine(navn);
 
+            // lkhjf lkjs dhf
+            // lkjgh lkdjg 
+            // lkjsd gflksdj 
+
+
             Queue<int> q = new Queue<int>();
             q.Enqueue(1);
             q.Enqueue(2);

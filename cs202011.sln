@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgsDemo", "ArgsDemo\ArgsDemo.csproj", "{1BC95C2E-DEE5-4889-B281-77CC56EB892B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samlinger", "Samlinger\Samlinger.csproj", "{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1BC95C2E-DEE5-4889-B281-77CC56EB892B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BC95C2E-DEE5-4889-B281-77CC56EB892B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BC95C2E-DEE5-4889-B281-77CC56EB892B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

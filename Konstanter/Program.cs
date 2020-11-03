@@ -7,6 +7,9 @@ namespace Konstanter
         static void Main(string[] args)
         {
 
+            
+
+
             string person1Navn = "Mathias";
             int person1Alder = 12;
             Køn person1Køn = Køn.Mand;

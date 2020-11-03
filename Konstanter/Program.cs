@@ -27,7 +27,7 @@ namespace Konstanter
 
 
             DayOfWeek d = DayOfWeek.Monday;
-            if(d== DayOfWeek.Monday) { }
+            if (d == DayOfWeek.Monday) { }
 
             switch (d)
             {
@@ -67,5 +67,7 @@ namespace Konstanter
 
         }
     }
+
+
 
 }

@@ -5,12 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Finktioner\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Konstanter2\Konstanter2.csproj" />
-  </ItemGroup>
-
 </Project>

@@ -10,13 +10,9 @@ namespace Demo
     {
         static void Main(string[] args)
         {
+            Konstanter2.Farve f = Konstanter2.Farve.Blå;
 
-            if (true)
-            {
-                Console.WriteLine("Test");
-            }
-
-
+        
 
 
 

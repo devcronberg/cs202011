@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start", "Start\Start.csproj", "{3F0ADD53-8130-4872-BE8D-245E915924E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Start", "Start\Start.csproj", "{3F0ADD53-8130-4872-BE8D-245E915924E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegePlads", "LegePlads\LegePlads.csproj", "{863F8BB6-2010-408E-9851-40FB8E02D97E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegePlads", "LegePlads\LegePlads.csproj", "{863F8BB6-2010-408E-9851-40FB8E02D97E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler", "Variabler\Variabler.csproj", "{DB0A7C66-4962-4309-9486-6A00587C070C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler", "Variabler\Variabler.csproj", "{DB0A7C66-4962-4309-9486-6A00587C070C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDemo", "StringDemo\StringDemo.csproj", "{9E31CA0C-BF07-4C10-B43A-B9DFEFC862DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringDemo", "StringDemo\StringDemo.csproj", "{9E31CA0C-BF07-4C10-B43A-B9DFEFC862DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konstanter", "Konstanter\Konstanter.csproj", "{42EC4E24-1F3D-4D39-867B-9C9B321C076E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konstanter", "Konstanter\Konstanter.csproj", "{42EC4E24-1F3D-4D39-867B-9C9B321C076E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konstanter2", "Konstanter2\Konstanter2.csproj", "{784D4879-5019-4110-B95C-3EE1A64C3FC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder", "Metoder\Metoder.csproj", "{7E9164C1-A886-4676-AA36-E612C2E4B943}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{42EC4E24-1F3D-4D39-867B-9C9B321C076E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42EC4E24-1F3D-4D39-867B-9C9B321C076E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42EC4E24-1F3D-4D39-867B-9C9B321C076E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784D4879-5019-4110-B95C-3EE1A64C3FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784D4879-5019-4110-B95C-3EE1A64C3FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784D4879-5019-4110-B95C-3EE1A64C3FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784D4879-5019-4110-B95C-3EE1A64C3FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9164C1-A886-4676-AA36-E612C2E4B943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9164C1-A886-4676-AA36-E612C2E4B943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9164C1-A886-4676-AA36-E612C2E4B943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9164C1-A886-4676-AA36-E612C2E4B943}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

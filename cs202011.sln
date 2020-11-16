@@ -15,17 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konstanter", "Konstanter\Ko
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konstanter2", "Konstanter2\Konstanter2.csproj", "{784D4879-5019-4110-B95C-3EE1A64C3FC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder", "Metoder\Metoder.csproj", "{7E9164C1-A886-4676-AA36-E612C2E4B943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metoder", "Metoder\Metoder.csproj", "{7E9164C1-A886-4676-AA36-E612C2E4B943}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fejl", "Fejl\Fejl.csproj", "{3C941C8C-FA16-4563-B5D2-91E94F00039F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fejl", "Fejl\Fejl.csproj", "{3C941C8C-FA16-4563-B5D2-91E94F00039F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogDemo", "LogDemo\LogDemo.csproj", "{40AB9C94-D30F-4BF1-854E-71B88180D13D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogDemo", "LogDemo\LogDemo.csproj", "{40AB9C94-D30F-4BF1-854E-71B88180D13D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\ArrayDemo.csproj", "{892E1136-E972-42C5-81BB-1892B55E7200}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayDemo", "ArrayDemo\ArrayDemo.csproj", "{892E1136-E972-42C5-81BB-1892B55E7200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgsDemo", "ArgsDemo\ArgsDemo.csproj", "{1BC95C2E-DEE5-4889-B281-77CC56EB892B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArgsDemo", "ArgsDemo\ArgsDemo.csproj", "{1BC95C2E-DEE5-4889-B281-77CC56EB892B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samlinger", "Samlinger\Samlinger.csproj", "{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samlinger", "Samlinger\Samlinger.csproj", "{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlasserDemo", "KlasserDemo\KlasserDemo.csproj", "{1665A05E-2648-4844-86A4-81A92AD3D3CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2C13591-5F94-4E7D-B121-EEE16B9A98F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1665A05E-2648-4844-86A4-81A92AD3D3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1665A05E-2648-4844-86A4-81A92AD3D3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1665A05E-2648-4844-86A4-81A92AD3D3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1665A05E-2648-4844-86A4-81A92AD3D3CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

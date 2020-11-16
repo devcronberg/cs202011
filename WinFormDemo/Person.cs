@@ -17,13 +17,7 @@ namespace WinFormDemo
             set { navn = value; }
         }
 
-        private int alder;
-
-        public int Alder
-        {
-            get { return alder; }
-            
-        }
+   
 
         private bool erDansk;
 

@@ -6,7 +6,35 @@ namespace ArvDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            B b = new B(3);
+
+            
+            
+
         }
     }
+
+    class A {
+
+        public A()
+        {
+
+        }
+
+      
+
+    }
+
+    class B : A {
+
+        public B()
+        {
+
+        }
+
+      
+      
+    }
+
 }

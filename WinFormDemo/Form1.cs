@@ -35,5 +35,10 @@ namespace WinFormDemo
         {
 
         }
+
+        private void minKnap1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

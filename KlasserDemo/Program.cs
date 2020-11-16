@@ -15,6 +15,7 @@ namespace KlasserDemo
             Terning t1;
             t1 = new Terning();
 
+            
 
             for (int i = 0; i < 10; i++)
             {

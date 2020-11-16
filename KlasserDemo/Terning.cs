@@ -12,6 +12,7 @@ namespace KlasserDemo
         // Default
         public Terning() 
         {
+            
             this.Ryst();
         }
 

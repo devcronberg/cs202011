@@ -4,6 +4,8 @@ namespace Indkapsling
 {
     class Program
     {
+
+
         static void Main(string[] args)
         {
             Terning t = new Terning();

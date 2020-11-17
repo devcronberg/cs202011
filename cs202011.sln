@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerningDI", "TerningDI\Tern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teknologisk.TerningApp.Kerne", "Teknologisk.TerningApp.Kerne\Teknologisk.TerningApp.Kerne.csproj", "{D251F6C2-5DDF-4919-B721-0E4EA73C910C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo1", "DelegateDemo1\DelegateDemo1.csproj", "{E226C99D-11B6-45D0-93D3-280900A9B66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate2", "Delegate2\Delegate2.csproj", "{B3C2EAAF-1594-4E7A-B2A6-0504D1CE855B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{D251F6C2-5DDF-4919-B721-0E4EA73C910C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D251F6C2-5DDF-4919-B721-0E4EA73C910C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D251F6C2-5DDF-4919-B721-0E4EA73C910C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E226C99D-11B6-45D0-93D3-280900A9B66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E226C99D-11B6-45D0-93D3-280900A9B66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E226C99D-11B6-45D0-93D3-280900A9B66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E226C99D-11B6-45D0-93D3-280900A9B66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C2EAAF-1594-4E7A-B2A6-0504D1CE855B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C2EAAF-1594-4E7A-B2A6-0504D1CE855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C2EAAF-1594-4E7A-B2A6-0504D1CE855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C2EAAF-1594-4E7A-B2A6-0504D1CE855B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

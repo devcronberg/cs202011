@@ -38,7 +38,10 @@ namespace WinFormDemo
 
         private void minKnap1_Click(object sender, EventArgs e)
         {
-
+            foreach (Control item in this.Controls)
+            {
+                
+            }
         }
     }
 }

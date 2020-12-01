@@ -12,7 +12,7 @@ namespace Poly2
             Fugl f = new Fugl();
             Console.WriteLine(f.Kendelyd());
 
-            Kæledyr k = new Kæledyr();
+            //Kæledyr k = new Kæledyr();
 
         }
     }

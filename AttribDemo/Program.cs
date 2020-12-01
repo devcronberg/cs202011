@@ -6,9 +6,9 @@ namespace AttribDemo
     
     class Program
     {
-        static void Main([Table("Person")]  string[] args)
+        static void Main(  string[] args)
         {
-            Test();
+            
         }
 
         
